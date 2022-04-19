@@ -22,7 +22,7 @@ Ce projet est la création d'une cryptomonnaie fantaisiste que l'on gagnerait si
 * **Input: base de données recueilli une application créée pour la marche, distances marchées par jour. 
 * **Output: Création d'une crypto monnaie basée sur la distance parcourue en marchant
 
-# [Projet 3 en cours: Site de ventes de biens immobiliers adossés à la Blockchain] (Lien github vers le code)
+# [Projet 3 en cours: Site de ventes de biens immobiliers adossés à la Blockchain] (Lien github vers le code:...)
 
 Ce projet adosseraient un certificat Blockchain dans lequel serait conservé toutes les informations relatives (travaux effectués, prix d'achats et ventes du biens au cours du temps, sa valeur en temps réels par rapport à sa position géographique, taux d'inflation, superficie ainsi que les différents propriétaires de ces biens au cours du temps) et qui seraient transmis aux acquéreurs ou locataires de ces biens immobiliers avec l'estimation en temps réel du prix de ce bien dans le cas d'une revente. 
 * **Librairies Python Utilisées: Solidity, Sklearn, Flask;, Django, TensorFlow...
@@ -31,6 +31,6 @@ Ce projet adosseraient un certificat Blockchain dans lequel serait conservé tou
 
 # [Projet 4 en cours: Chatbot haoussaphone] (Lien github vers le code)
 
-# [Projet 5 en cours: Création d'une base de données des sites archéologiques en cours en Afrique] (Lien github vers le code)
+# [Projet 5 en cours: Création d'une base de données des sites archéologiques en cours en Afrique] (Lien github vers le code:...)
 
-# [Projet 6 en cours: Suivie quotidien des prix de l'or partout dans le monde] (Lien github vers le code
+# [Projet 6 en cours: Suivie quotidien des prix de l'or partout dans le monde] (Lien github vers le code:...)
