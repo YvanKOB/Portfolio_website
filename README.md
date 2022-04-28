@@ -10,7 +10,6 @@
 
 # [Projet 1 en cours : Reconnaissance et classement de documents scannés] (lien vers le code github:...)
 ![alt text](leon-seibert-9i5eqBarv-k-unsplash.jpg)
-
 Photo by Leon Seibert on Unsplash
 
 Ce projet permet la reconnaissance de numéro écrit à la main ainsi que l'intitulé du document, à partir d'un document scanné pour l'intégrer dans une base de donnée. Pour être plus clair, il reconnaît le numéro d'identification d'un document scanné en se basant sur une base de données établie au préalable, puis analyse l'intitulé/titre figurant sur le document pour le fichier se rapportant à ce type de fichier. Cette m'idée m'est venue en voulant gagner du temps lors d'un stage dans un fonds d'investissement luxembourgeois, où je perdais un temps fou à scanner des documents, les ranger dans les fichiers selon qu'ils s'apperentaient à tels types de documents (TVA, fiches de paies ou prêts...). 
@@ -20,7 +19,6 @@ Ce projet permet la reconnaissance de numéro écrit à la main ainsi que l'inti
 
 # [Projet 2 en cours : Création d'une cryptomonnaie fantaisiste] (Lien github vers le code:...)
 ![alt text](art-rachen-yJpjLD3c9bU-unsplash.jpg)
-
 Photo by Art Rachen on Unsplash  
 
 Ce projet est la création d'une cryptomonnaie fantaisiste que l'on gagnerait si l'on marchait plus d'une heure par jour. Qui ne serait dépensable que sur une site d'E-commerce centré sur le sport. 
@@ -31,9 +29,7 @@ Ce projet est la création d'une cryptomonnaie fantaisiste que l'on gagnerait si
 # [Projet 3 en cours: Site de ventes de biens immobiliers adossés à la Blockchain] (Lien github vers le code:...)
 ![alt text](francesca-tosolini-tHkJAMcO3QE-unsplash.jpg)
 ![alt text](shubham-dhage-T9rKvI3N0NM-unsplash.jpg)
-
-Photo by Francesca Tosolini on Unsplash
-Photo by Shubham Dhage on Unsplash
+Photos by Francesca Tosolini and by Shubham Dhage on Unsplash
 
 Ce projet adosseraient un certificat Blockchain dans lequel serait conservé toutes les informations relatives (travaux effectués, prix d'achats et ventes du biens au cours du temps, sa valeur en temps réels par rapport à sa position géographique, taux d'inflation, superficie ainsi que les différents propriétaires de ces biens au cours du temps) et qui seraient transmis aux acquéreurs ou locataires de ces biens immobiliers avec l'estimation en temps réel du prix de ce bien dans le cas d'une revente. 
 * **Librairies Python Utilisées: Solidity, Sklearn, Flask;, Django, TensorFlow...
@@ -43,16 +39,12 @@ Ce projet adosseraient un certificat Blockchain dans lequel serait conservé tou
 # [Projet 4 en cours: Chatbot haoussaphone] (Lien github vers le code)
 ![alt text](suanmoo-tXB7yfP9gg0-unsplash.jpg)
 ![alt text](adeboro-odunlami-ZfanC6Eg9nE-unsplash.jpg)
-
-Photo by 수안 최 on Unsplash 
-Photo by Adeboro Odunlami on Unsplash
+Photos by 수안 최 on Unsplash and by Adeboro Odunlami on Unsplash
 
 # [Projet 5 en cours: Création d'une base de données des sites archéologiques en cours en Afrique] (Lien github vers le code:...)
 ![alt text](hulki-okan-tabak-T9HLn-g6Cmo-unsplash.jpg)
-
 Photo by Hulki Okan Tabak on Unsplash
 
 # [Projet 6 en cours: Suivie quotidien des prix de l'or partout dans le monde] (Lien github vers le code:...)
 ![alt text](jingming-pan-iYsrkq5qq0Q-unsplash.jpg)
-
 Photo by Jingming Pan on Unsplash
