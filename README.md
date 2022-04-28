@@ -39,7 +39,7 @@ Ce projet adosseraient un certificat Blockchain dans lequel serait conservé tou
 # [Projet 4 en cours: Chatbot haoussaphone] (Lien github vers le code)
 ![alt text](suanmoo-tXB7yfP9gg0-unsplash.jpg)
 ![alt text](adeboro-odunlami-ZfanC6Eg9nE-unsplash.jpg)
-Photos by 수안 최 on Unsplash and by Adeboro Odunlami on Unsplash
+Photos by 수안 최 and by Adeboro Odunlami on Unsplash
 
 # [Projet 5 en cours: Création d'une base de données des sites archéologiques en cours en Afrique] (Lien github vers le code:...)
 ![alt text](hulki-okan-tabak-T9HLn-g6Cmo-unsplash.jpg)
