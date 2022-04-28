@@ -8,7 +8,7 @@
 * FUN MOOC: Apprendre à coder avec python
 * Autodidacte React, Solidity, Html, CSS, Django et Flask grâce à la chaîne Freecodecamp: https://www.youtube.com/c/Freecodecamp
 
-# [Projet 1 en cours : Reconnaissance et classement de documents scannés] (lien vers le code github:...)
+# [Projet 1 en cours : Reconnaissance et classement de documents scannés] (lien vers le code github: En chantier...)
 ![alt text](leon-seibert-9i5eqBarv-k-unsplash.jpg)
 Photo by Leon Seibert on Unsplash
 
@@ -17,7 +17,7 @@ Ce projet permet la reconnaissance de numéro écrit à la main ainsi que l'inti
 * **Input: Document scannées, Base de données SQL
 * **Output: Classement du document scanné dans la fichier correspondant à ce fichier et attribution d'un nom de ce document en relation avec le fichier
 
-# [Projet 2 en cours : Création d'une cryptomonnaie fantaisiste] (Lien github vers le code:...)
+# [Projet 2 en cours : Création d'une cryptomonnaie fantaisiste] (Lien github vers le code: En chantier...)
 ![alt text](art-rachen-yJpjLD3c9bU-unsplash.jpg)
 Photo by Art Rachen on Unsplash  
 
@@ -26,7 +26,7 @@ Ce projet est la création d'une cryptomonnaie fantaisiste que l'on gagnerait si
 * **Input: base de données recueilli une application créée pour la marche, distances marchées par jour. 
 * **Output: Création d'une crypto monnaie basée sur la distance parcourue en marchant
 
-# [Projet 3 en cours: Site de ventes de biens immobiliers adossés à la Blockchain] (Lien github vers le code:...)
+# [Projet 3 en cours: Site de ventes de biens immobiliers adossés à la Blockchain] (Lien github vers le code: En chantier...)
 ![alt text](francesca-tosolini-tHkJAMcO3QE-unsplash.jpg)
 ![alt text](shubham-dhage-T9rKvI3N0NM-unsplash.jpg)
 Photos by Francesca Tosolini and by Shubham Dhage on Unsplash
@@ -41,10 +41,17 @@ Ce projet adosseraient un certificat Blockchain dans lequel serait conservé tou
 ![alt text](adeboro-odunlami-ZfanC6Eg9nE-unsplash.jpg)
 Photos by 수안 최 and by Adeboro Odunlami on Unsplash
 
-# [Projet 5 en cours: Création d'une base de données des sites archéologiques en cours en Afrique] (Lien github vers le code:...)
+# [Projet 5 en cours: Création d'une base de données des sites archéologiques en cours en Afrique] (Lien github vers le code: En chantier...)
 ![alt text](hulki-okan-tabak-T9HLn-g6Cmo-unsplash.jpg)
 Photo by Hulki Okan Tabak on Unsplash
 
-# [Projet 6 en cours: Suivie quotidien des prix de l'or partout dans le monde] (Lien github vers le code:...)
+# [Projet 6 en cours: Suivie quotidien des prix de l'or partout dans le monde] (Lien github vers le code : En chantier...)
 ![alt text](jingming-pan-iYsrkq5qq0Q-unsplash.jpg)
 Photo by Jingming Pan on Unsplash
+
+
+# [Me contacter]
+* **Linkedin: www.linkedin.com/in/yvan-koa-biloa
+* **https://github.com/YvanKOB
+* **Mail: yvan.koabiloa@gmail.com
+* **Téléphone: +33 6 30 81 46 63
